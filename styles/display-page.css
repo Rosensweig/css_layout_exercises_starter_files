@@ -1,0 +1,53 @@
+body {
+	font-size: 0px;
+}
+
+span {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+div {
+	width:800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.top {
+	height: 200px;
+}
+
+.bottom {
+	height: 300px;
+}
+
+.half {
+	width: 50%;
+	height: 200px;
+}
+
+.third {
+	width: 33.333%;
+	height: 300px;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+	margin-right: auto;
+}
